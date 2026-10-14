@@ -29,6 +29,8 @@
 | 验证 Acc | 96.61% |
 | 最佳验证 Acc | 96.87%（第 148 epoch） |
 
+![Training curves](../assets/training_curves.png)
+
 ## 4. 测试集评估
 
 | 指标 | 数值 |
