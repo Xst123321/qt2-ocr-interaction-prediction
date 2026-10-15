@@ -120,6 +120,14 @@
 
 ## 6. 附录（图表）
 
-1. 训练曲线：assets/training_curves.png
-2. 富集分析：assets/enrichment_analysis.png
-3. 预测分布：assets/prediction_distribution.png
+### 训练曲线
+
+![Training curves](assets/training_curves.png)
+
+### 富集分析
+
+![Enrichment analysis](assets/enrichment_analysis.png)
+
+### 预测分布
+
+![Prediction distribution](assets/prediction_distribution.png)
