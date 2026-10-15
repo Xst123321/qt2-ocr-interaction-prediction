@@ -1,5 +1,7 @@
 # 结果汇总
 
+本文件是 QT2 课题的数据索引。完整报告见 [QT2_OCR_interaction_results_report.md](../QT2_OCR_interaction_results_report.md)。
+
 ## 1. 数据统计
 
 | 项目 | 数值 |
