@@ -41,4 +41,5 @@ Top 20 富集的 TF motif：
 
 ## 5. 结果图
 
-![Motif logos](../assets/motif_logos.png)
+![Motif logos](../../assets/motif_logos.png)
+
