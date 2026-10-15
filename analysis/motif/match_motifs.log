@@ -1,0 +1,27 @@
+nohup: ignoring input
+Attributions shape: (500, 6000)
+JASPAR motifs: 805
+
+Top 20 motifs:
+estExt_gwp_gw1.C_220046: 51
+ERF7: 31
+CRF3: 24
+DOF3.1: 24
+PK16340.1: 20
+ERF069: 18
+Dof3: 18
+DOF5.6: 17
+AZF2: 17
+DOF2.4: 16
+PK01144.1: 16
+GATA4: 14
+PHYPADRAFT_153324: 14
+DOF5.3: 14
+PK07031.1: 13
+PpDof6: 12
+TREE1: 11
+PK15337.1: 11
+PHYPADRAFT_140773: 11
+ERF094: 9
+
+Saved 500 matches to motif_matches.tsv

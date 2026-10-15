@@ -1,0 +1,14 @@
+nohup: ignoring input
+/home/bio/miniconda3/envs/plantctcip/lib/python3.11/site-packages/torch/nn/modules/transformer.py:382: UserWarning: enable_nested_tensor is True, but self.use_nested_tensor is False because encoder_layer.self_attn.batch_first was not True(use batch_first for better inference performance)
+  warnings.warn(
+Processed 50/500
+Processed 100/500
+Processed 150/500
+Processed 200/500
+Processed 250/500
+Processed 300/500
+Processed 350/500
+Processed 400/500
+Processed 450/500
+Processed 500/500
+Done. Shape: (500, 6000)
